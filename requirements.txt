@@ -1,0 +1,11 @@
+black
+ruff
+pytest
+pytest-cov
+pre-commit
+nbconvert
+mkdocs
+mkdocs-material
+dvc
+scikit-learn
+joblib

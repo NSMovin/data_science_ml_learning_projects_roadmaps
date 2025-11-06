@@ -1,0 +1,5 @@
+stages:
+  train:
+    cmd: python projects/project1-name/src/train.py
+    outs:
+      - models/linear_model.joblib

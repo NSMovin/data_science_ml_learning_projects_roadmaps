@@ -1,0 +1,8 @@
+
+site_name: AI & Data Science Learning
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Projects:
+      - Project 1: projects/project1-name/README.md
