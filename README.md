@@ -153,7 +153,7 @@ mkdocs serve
 ## 🔧 Setup
 Clone
 ```bash
-git clone [<your-repo-url>](https://github.com/NSMovin/data_science_ml_learning_projects_roadmaps/edit/main/README.md)
+git clone https://github.com/NSMovin/data_science_ml_learning_projects_roadmaps/
 cd repo
 ```
 
